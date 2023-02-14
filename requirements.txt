@@ -1,0 +1,4 @@
+Package       Version
+------------- -------
+pip           19.2.3
+PyNaCl        1.4.0

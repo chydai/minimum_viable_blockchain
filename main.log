@@ -1,0 +1,91 @@
+my-logger - INFO - Initilizing BlockChain....
+my-logger - INFO - Initilizing done!
+my-logger - INFO - Genesis Block has been created successfully!
+my-logger - INFO - Initilizing BlockChain....
+my-logger - INFO - Initilizing done!
+my-logger - INFO - Initilizing BlockChain....
+my-logger - INFO - Initilizing done!
+my-logger - INFO - Initilizing BlockChain....
+my-logger - INFO - Initilizing done!
+my-logger - INFO - Initilizing BlockChain....
+my-logger - INFO - Initilizing done!
+my-logger - INFO - Initilizing BlockChain....
+my-logger - INFO - Initilizing done!
+my-logger - INFO - Initilizing BlockChain....
+my-logger - INFO - Initilizing done!
+my-logger - INFO - Initilizing BlockChain....
+my-logger - INFO - Initilizing done!
+my-logger - INFO - Initilizing BlockChain....
+my-logger - INFO - Initilizing done!
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - In Node 2 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - In Node 3 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - In Node 6 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - In Node 8 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - In Node 1 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - In Node 4 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - In Node 5 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - Verification Failed! Tx is already on the blockchain
+my-logger - ERROR - In Node 7 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - In Node 2 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - In Node 1 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - In Node 6 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - In Node 7 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - In Node 4 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - In Node 5 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - In Node 8 :Tx Verification Failed! Double spend detected
+my-logger - ERROR - In Node 3 :Tx Verification Failed! Double spend detected
