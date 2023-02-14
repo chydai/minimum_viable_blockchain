@@ -1,5 +1,7 @@
 # Minimum-Viable-Blockchain
 
+https://github.com/chydai/minimum_viable_blockchain.git
+
 ## Running the program
 To run our program, simply run the `driver.py` by using `python3 driver.py`. If want to test different cases, change the file names in __readTxFromFile() function in `driver.py`. Example: with `open("./transactions/xxxxxx.json")` --> replace xxxxxx with file name from transactions folder. Remember to include all required modules mentioned in the `requirement.txt.`
 
