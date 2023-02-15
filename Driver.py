@@ -52,7 +52,7 @@ class Driver:
     
     # TODO: make the file name modifiable
     def __readTxFromFile(self):
-        with open("./transactions/DoubleSpendTestTx.json") as f:
+        with open("./transactions/ValidTestTx.json") as f:
             jsonObj = json.load(f)
         for obj in jsonObj['txList']:
             sleep(random.uniform(0, 0.5))

@@ -101,10 +101,3 @@ class Transaction:
         jsonOut["output"] = outputList
         jsonOut["sig"] = self.sig
         return jsonOut
-
-
-
-
-
-
-

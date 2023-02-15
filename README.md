@@ -2,10 +2,11 @@
 
 https://github.com/chydai/minimum_viable_blockchain.git
 
+---
 ## Running the program
 To run our program, simply run the `driver.py` by using `python3 driver.py`. If want to test different cases, change the file names in __readTxFromFile() function in `driver.py`. Example: with `open("./transactions/xxxxxx.json")` --> replace xxxxxx with file name from transactions folder. Remember to include all required modules mentioned in the `requirement.txt.`
 
-
+---
 ## Code structure overview
 
 `Block.py`
@@ -29,7 +30,7 @@ To run our program, simply run the `driver.py` by using `python3 driver.py`. If 
 
 - Creates an object of calls on all the test methods. Driver of testing all bad cases .
 
-
+---
 ## Design of tests
 
 ### Json files for test input
@@ -63,7 +64,7 @@ We design 7 main different json files, each of which contains multiple transacti
 
 - contains 2 transactions, the first is valid while the second transaction has non-exist input  
 
-
+---
 ## Files generated
 - `Nodex.json`
     - This json file records the ledger in node X. Each node should have their own copy of the blockchain ledger, so in this task we have 8 nodes and thus 8 node-x.json, each of which is essentially the same, except for those nodes who are inhonest.

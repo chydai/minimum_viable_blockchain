@@ -68,7 +68,7 @@ class BlockChain:
         n1 = node1
         n2 = node2
 
-        if not n1 or not p2:
+        if not n1 or not n2:
             return None
         while n1 != n2:
             n1 = n1.prevBlockNode
@@ -80,9 +80,3 @@ class BlockChain:
             if not n2:
                 n2 = node1
         return n1
-
-        
-
-
-
-
